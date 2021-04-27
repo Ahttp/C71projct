@@ -4,6 +4,7 @@ ul {
   padding: 0;
 }
 
+
 #rat {
     vertical-align: middle
 }
@@ -16,6 +17,7 @@ ul {
 .topnav {
   overflow: hidden;
   background-color: #333;
+    position: sticky;
 }
 
 .topnav a {
